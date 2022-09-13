@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "8993334182",
+    "firebase_url": "https://starplayers-d1601.firebaseio.com",
+    "project_id": "starplayers-d1601",
+    "storage_bucket": "starplayers-d1601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8993334182:android:f7306b9aa4926353802567",
+        "android_client_info": {
+          "package_name": "com.starplayers.starplayers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8993334182-bq09dcc71a9mc9q6ncnmli4rolsfcsnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starplayers.starplayers",
+            "certificate_hash": "1588852f0695e405d6a0afff45436431ec4f582a"
+          }
+        },
+        {
+          "client_id": "8993334182-npfuu2jsu08gd109tcsnb5diqnnh53f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starplayers.starplayers",
+            "certificate_hash": "8a9e27bf0200c5962c1117ac6d84995ab828e019"
+          }
+        },
+        {
+          "client_id": "8993334182-rl80qh5rve92gmr2nlakmsm1cc7a7hdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starplayers.starplayers",
+            "certificate_hash": "a0b456a5e6771f2f51808f5d2274efd474481352"
+          }
+        },
+        {
+          "client_id": "8993334182-u8ru51bviq4uu4g88gsskcfh8il7go20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starplayers.starplayers",
+            "certificate_hash": "edbb2be83704ec2c0b8a30a001c41811435408e6"
+          }
+        },
+        {
+          "client_id": "8993334182-34gk9nkk6k1a6l7rdaq2t00db8pv78tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2fdxtVWi7W374mgJX4auXctNjS17hY_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8993334182-34gk9nkk6k1a6l7rdaq2t00db8pv78tq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8993334182-mjrrp05k3rr1k4p5q6fg4od3ehflpmg6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.starplayers.starplayers"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9402700771408961~2178694756"
+    }
+  ],
+  "configuration_version": "1"
+}
